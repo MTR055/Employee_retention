@@ -1,3 +1,10 @@
-Problem Statement:
+## Problem Statement:
 The problem provides the data regarding the employees satisfaction and their retention rates. Task is analyse the data and know the factors contributing for resignation of employees and insightsin given data and 
 also to build a classification model that can predict whether a given employee is bound to leave the company or retain.
+
+## Exploratory Data Analysis:
+It is seen that the sales department has high number of resignations and employees with less satisfaction are tending to leave the company.
+
+## Modelling:
+The random forest classifier is built and finetuned to predict the employee retention given scenario data of employee with an accuracy of nearly 99percent.
+
